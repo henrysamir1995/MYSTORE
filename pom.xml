@@ -66,6 +66,13 @@
             <url>https://jcenter.bintray.com</url>
         </pluginRepository>
     </pluginRepositories>
+	
+	<distributionManagement>
+        <repository>
+            <id>myMavenRepo.write</id>
+            <url>https://mymavenrepo.com/repo/le8DLXMQn2dV2jW0nL7e/</url>
+        </repository>
+    </distributionManagement>
 
     <dependencies>
         <dependency>
