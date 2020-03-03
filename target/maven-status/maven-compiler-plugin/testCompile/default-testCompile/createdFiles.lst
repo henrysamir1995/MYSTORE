@@ -1,0 +1,4 @@
+MyStore\stepsdefinitions\UsuarioDefinicionDePasos.class
+MyStore\Runner.class
+MyStore\steps\UserMyStore.class
+MyStore\pageobject\PaginaPrincipal.class
